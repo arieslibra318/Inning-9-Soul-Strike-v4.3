@@ -1,5 +1,5 @@
-# ⚾ 棒球 QTE 反應遊戲 v4.3 (Baseball QTE Game v4.3)
-### TAICA 生成式 AI 跨校聯盟課程作業成果
+# ⚾ Inning 9 Soul Strike v4.3 (Baseball QTE Game)
+### 《逆轉九局：魂之交鋒》· TAICA 生成式 AI 跨校聯盟課程作業成果
 
 [![GitHub Pages](https://img.shields.io/badge/Status-Playable-brightgreen)]()
 [![Version](https://img.shields.io/badge/Version-v4.3-blue)]()
@@ -9,7 +9,7 @@
 
 ## 🎮 遊戲簡介
 
-本專案為 **8-Bit 像素復古風格的棒球 QTE（Quick Time Event）即時反應打擊遊戲**。
+本專案為 **《Inning 9 Soul Strike》（逆轉九局：魂之交鋒）** —— **8-Bit 像素復古風格的棒球 QTE（Quick Time Event）即時反應打擊遊戲**。
 玩家需在投手上壘投球的瞬間，根據畫面提示的節奏判定圈，於最佳判定時機按下打擊鍵，挑戰連續安打並力求擊出九局下半的逆轉滿貫全壘打！
 
 ---
