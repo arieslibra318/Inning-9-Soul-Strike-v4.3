@@ -1,9 +1,11 @@
 # ⚾ Inning 9 Soul Strike v4.3 (Baseball QTE Game)
 ### 《逆轉九局：魂之交鋒》· TAICA 生成式 AI 跨校聯盟課程作業成果
 
-[![GitHub Pages](https://img.shields.io/badge/Status-Playable-brightgreen)]()
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Play%20Online-brightgreen?logo=github)](https://arieslibra318.github.io/Inning-9-Soul-Strike-v4.3/)
 [![Version](https://img.shields.io/badge/Version-v4.3-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-orange)]()
+
+> 🌐 **線上遊玩網址 (Play Online)**：[https://arieslibra318.github.io/Inning-9-Soul-Strike-v4.3/](https://arieslibra318.github.io/Inning-9-Soul-Strike-v4.3/)
 
 ---
 
@@ -27,8 +29,12 @@
 
 ## 🕹️ 遊玩方式
 
-1. **本機直接遊玩**：下載本儲存庫後，直接點擊兩下 `index.html` 即可在任一現代瀏覽器（Chrome, Edge, Safari）暢玩！
-2. **操作說明**：
+1. **線上即時暢玩（推薦）**：
+   * 點擊連結直接玩：👉 **[https://arieslibra318.github.io/Inning-9-Soul-Strike-v4.3/](https://arieslibra318.github.io/Inning-9-Soul-Strike-v4.3/)**
+   * 支援電腦與手機任何現代瀏覽器（Chrome、Edge、Safari 等），無需下載安裝任何套件。
+2. **本機直接遊玩**：
+   * 下載本儲存庫後，直接點擊兩下 `index.html` 即可在瀏覽器暢玩！
+3. **操作說明**：
    * **PC 端**：使用 `空白鍵 (Space)` 或 `滑鼠左鍵` 點擊擊球。
    * **行動端**：直接點擊螢幕任何位置進行揮棒。
 
